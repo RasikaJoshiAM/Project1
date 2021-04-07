@@ -1,3 +1,4 @@
+/* we have just added this comment to see the modified changes in git*/
 import java.util.Scanner;
 
  public class calculator
